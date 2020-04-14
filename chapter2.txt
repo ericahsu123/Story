@@ -1,1 +1,3 @@
-This is chapter 2. I have added more content
+This is chapter 2. I have added more content. 
+
+Add another paragraph
